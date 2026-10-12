@@ -11,3 +11,8 @@ coverage/
 tmp/
 package-lock.json
 package-lock.json
+*.zip
+*.docx
+documentation/bracu_logo.png
+documentation/DATABASE_LEVEL_NOTE.md
+project_notes.md
